@@ -45,17 +45,35 @@ Walmart-Retail-Sales-Analysis/
 ├── 04_Python/
 ├── 05_PowerBI/
 └── 07_Final_Output/
-
 ```
 
-## Dashboard
+## Power BI Dashboard Preview
 
-The Power BI dashboard contains four analytical pages:
+The interactive Power BI dashboard contains four analytical pages. Preview each page below:
 
-1. **Executive Overview**
-2. **Store Performance**
-3. **Department Analysis**
-4. **Sales & Seasonality**
+### 1. Executive Overview
+
+Provides a high-level summary of total sales, average weekly sales, store and department coverage, store-type contribution, and top-performing stores.
+
+![Executive Overview Dashboard](Walmart%20Dashboard%20Image%204.png)
+
+### 2. Store Performance
+
+Compares store-level sales performance, highlights top and bottom stores, and explores the relationship between store size and sales.
+
+![Store Performance Dashboard](Walmart%20Dashboard%20Image%203.png)
+
+### 3. Department Analysis
+
+Examines department sales rankings, average weekly sales by department, department sales trends, and performance across store types.
+
+![Department Analysis Dashboard](Walmart%20Dashboard%20Image%202.png)
+
+### 4. Sales & Seasonality
+
+Explores monthly sales patterns and compares holiday versus non-holiday sales performance.
+
+![Sales and Seasonality Dashboard](Walmart%20Dashboard%20Image%20.1.png)
 
 ## Key Business Insights
 
